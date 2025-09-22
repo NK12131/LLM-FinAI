@@ -13,6 +13,7 @@
     <a target='_blank'>Dong Li<sup>2</sup></a>&emsp;
     <a target='_blank'>Yongfu Dai<sup>7</sup></a>&emsp;
     <a target='_blank'>Duanyu Feng<sup>7</sup></a>&emsp;
+    <a target='_blank'>Nithin Kumar<sup>3</sup></a>&emsp;
     <a target='_blank'>Yijing Xu<sup>1</sup></a>&emsp;
     <a target='_blank'>Haoqiang Kang<sup>5</sup></a>&emsp;
     <a target='_blank'>Ziyan Kuang<sup>12</sup></a>&emsp;
